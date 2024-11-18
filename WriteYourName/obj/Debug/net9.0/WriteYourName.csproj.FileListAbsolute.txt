@@ -1,0 +1,14 @@
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\bin\Debug\net9.0\WriteYourName.exe
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\bin\Debug\net9.0\WriteYourName.deps.json
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\bin\Debug\net9.0\WriteYourName.runtimeconfig.json
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\bin\Debug\net9.0\WriteYourName.dll
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\bin\Debug\net9.0\WriteYourName.pdb
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\obj\Debug\net9.0\WriteYourName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\obj\Debug\net9.0\WriteYourName.AssemblyInfoInputs.cache
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\obj\Debug\net9.0\WriteYourName.AssemblyInfo.cs
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\obj\Debug\net9.0\WriteYourName.csproj.CoreCompileInputs.cache
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\obj\Debug\net9.0\WriteYourName.dll
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\obj\Debug\net9.0\refint\WriteYourName.dll
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\obj\Debug\net9.0\WriteYourName.pdb
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\obj\Debug\net9.0\WriteYourName.genruntimeconfig.cache
+C:\Users\besco\Documents\estudando\estudando-dotnet\WriteYourName\obj\Debug\net9.0\ref\WriteYourName.dll
